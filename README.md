@@ -159,3 +159,15 @@ It showcases how AI can be embedded into real-world applications to enhance user
 
 **Harisankar M**
 Computer Science Engineering Graduate
+
+## Preview
+
+### Login Page
+![Login](Preview/login.png)
+
+### Feedback Page
+![Feedback](Preview/feedback.png)
+
+
+### Admin Dashboard
+![Admin](Preview/admin.png)
