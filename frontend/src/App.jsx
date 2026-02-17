@@ -137,7 +137,7 @@ export default function App() {
         <Button onClick={submitFeedback} text="Analyze & Submit" />
       </div>
 
-      {/* ✅ ONLY CHANGE HERE */}
+      {/* Result*/}
       {modal && (
         <div className="fixed inset-0 bg-black/80 flex items-center justify-center z-50">
           <div className="bg-gray-900 p-10 rounded-3xl text-center border border-gray-600 animate-bounce">
